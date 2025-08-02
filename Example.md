@@ -1,3 +1,1 @@
-This is content.
-
-Extra line
+This is content!
